@@ -2,6 +2,8 @@
 
 A beginner-friendly data analytics project that predicts Titanic passenger survival using Logistic Regression.
 
+---
+
 ## Project Overview  
 This project applies Logistic Regression to predict whether a passenger aboard the Titanic survived. It walks through the full ML pipeline—from data exploration and preprocessing to model training and evaluation—aimed at beginners looking to practice classification in Python.
 

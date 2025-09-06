@@ -1,5 +1,7 @@
 # Titanic-Survivor-Prediction-using-Logistic-Regression
 
+---
+
 A beginner-friendly data analytics project that predicts Titanic passenger survival using Logistic Regression.
 
 ---

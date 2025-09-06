@@ -1,22 +1,20 @@
 # Titanic-Survivor-Prediction-using-Logistic-Regression
 
----
-
 A beginner-friendly data analytics project that predicts Titanic passenger survival using Logistic Regression.
 
----
+
 
 ## Project Overview  
 This project applies Logistic Regression to predict whether a passenger aboard the Titanic survived. It walks through the full ML pipeline—from data exploration and preprocessing to model training and evaluation—aimed at beginners looking to practice classification in Python.
 
----
+
 
 ## Repository Contents  
 - `Titanic Survivors Prediction.ipynb` — Jupyter notebook detailing the full analysis and model building.  
 - `Titanic-Dataset.csv` — The raw passenger data used for training and evaluation.  
 - `Titanic Survivours Prediction Model 05-09-2025.pkl` — Serialized (pickled) trained Logistic Regression model for inference.
 
----
+
 
 ## Dataset  
 The dataset contains passenger information such as age, gender, passenger class, fare, etc., along with the survival label. It serves as both training and testing data to evaluate the model's predictive ability.

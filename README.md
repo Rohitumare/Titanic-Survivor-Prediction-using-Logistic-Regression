@@ -19,7 +19,7 @@ This project applies Logistic Regression to predict whether a passenger aboard t
 ## Dataset  
 The dataset contains passenger information such as age, gender, passenger class, fare, etc., along with the survival label. It serves as both training and testing data to evaluate the model's predictive ability.
 
----
+
 
 ## Project Workflow  
 
@@ -41,7 +41,7 @@ The dataset contains passenger information such as age, gender, passenger class,
 - Train a Logistic Regression model using the training set.  
 - Evaluate performance using accuracy, precision, recall, F1-score, and confusion matrix.
 
----
+
 
 ## Results & Insights
 
@@ -52,20 +52,20 @@ The model's overall accuracy: 83%
 - Passenger Class: First-class travelers tended to survive more often.
 - Age: Younger passengers generally had better chances.
 
----
+
 
 ## Conclusion
 
 This repository demonstrates the end-to-end workflow of a Logistic Regression classification problem on a classic dataset. It’s an ideal starting point for beginners in data science and machine learning.
 
---- 
+
 
 ## Technologies Used
 - Python (Pandas, NumPy, scikit-learn, Matplotlib/Seaborn)
 - Jupyter Notebook
 - Pickle (for model serialization)
 
----
+
 
 ## Acknowledgments & References
 
